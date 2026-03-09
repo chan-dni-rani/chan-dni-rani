@@ -33,15 +33,15 @@ I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas
 - 🚀 Exploring both **frontend and backend development**
 - 📚 Always focused on learning and improving
  
-📬 Reach me at **chandnirani229@gmail.com**
+📬 Reach me at **chandnirani22827@gmail.com**
 ## 🌐 Socials
 
 <div align="center">
 
-<a href="https://github.com/ranichandnirani"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/chan-dni-rani"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/chandnirani"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/the_chan_dni/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:chandnirani229@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:chandnirani22827@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -88,7 +88,7 @@ I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranichandnirani&theme=dark&hide_border=false&show_icons=true&hide=commits,issues,contribs&rank_icon=github" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chan-dni-rani&theme=dark&hide_border=false&show_icons=true&hide=commits,issues,contribs&rank_icon=github" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranichandnirani&theme=dark&hide_border=false&layout=compact" height="160"/>
 
 <br/>
