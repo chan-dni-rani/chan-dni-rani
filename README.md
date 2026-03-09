@@ -93,7 +93,8 @@ I'm a passionate student and aspiring **Web Developer** who enjoys turning ideas
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ranichandnirani&theme=dark&hide_border=false" width="495"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=chan-dni-rani&theme=dark&hide_border=false" width="495"/>
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=ranichandnirani&theme=dark&hide_border=false" width="495"/> -->
 
 </div>
 
